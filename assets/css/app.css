@@ -1,0 +1,25 @@
+body {
+    background: #fcfcfc;
+}
+
+.connect-header {
+    background: #161414;
+    height: 50px;
+}
+
+.filter-deal {
+    max-width: 100px;
+}
+
+.filter-client {
+    max-width: 110px;
+}
+
+h5 {
+    padding: 20px 0;
+    display: inline-block;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background: #f8f8f8 !important
+}
